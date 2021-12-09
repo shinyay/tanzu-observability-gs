@@ -1,8 +1,15 @@
-# Name
+# Getting Started with Tanzu Observability
 
-Overview
+This is a guide to get started with Tanzu Observability.
 
 ## Description
+
+### Dependencies
+
+- org.springframework.boot
+  - `spring-boot-starter-web`
+- com.wavefront
+  - `wavefront-spring-boot-starter`
 
 ## Demo
 
