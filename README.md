@@ -24,6 +24,13 @@ This is a guide to get started with Tanzu Observability.
 
 ## Installation
 
+```yaml
+wavefront:
+  application:
+    name: tanzu
+    service: getting-started
+```
+
 ## References
 
 ## Licence
