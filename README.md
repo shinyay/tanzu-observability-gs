@@ -22,6 +22,8 @@ This is a guide to get started with Tanzu Observability.
 
 ## Usage
 
+![wavefront](https://user-images.githubusercontent.com/3072734/145547181-fbbf1d1c-52f5-4907-a160-8755f168c8bd.gif)
+
 ## Installation
 
 ```yaml
