@@ -13,6 +13,13 @@ This is a guide to get started with Tanzu Observability.
 
 ## Demo
 
+![wavefront](https://user-images.githubusercontent.com/3072734/145547181-fbbf1d1c-52f5-4907-a160-8755f168c8bd.gif)
+
+You can use the freemium Tanzu Observability cluster.
+
+Access the link displayed:
+https://wavefront.surf/us/AtoKen
+
 ## Features
 
 - feature:1
@@ -21,13 +28,6 @@ This is a guide to get started with Tanzu Observability.
 ## Requirement
 
 ## Usage
-
-![wavefront](https://user-images.githubusercontent.com/3072734/145547181-fbbf1d1c-52f5-4907-a160-8755f168c8bd.gif)
-
-You can use the freemium Tanzu Observability cluster.
-
-Access the link displayed:
-https://wavefront.surf/us/AtoKen
 
 ## Installation
 
