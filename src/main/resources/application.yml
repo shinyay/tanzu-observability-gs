@@ -2,3 +2,8 @@ wavefront:
   application:
     name: tanzu
     service: getting-started
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,wavefront

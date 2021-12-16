@@ -20,6 +20,12 @@ You can use the freemium Tanzu Observability cluster.
 Access the link displayed:
 https://wavefront.surf/us/AtoKen
 
+### Accessing Your Dashboard Using /actuator/wavefront
+
+http://localhost:8080/actuator/wavefront 
+
+![to](https://user-images.githubusercontent.com/3072734/146466855-36822d2f-26ba-4378-b199-968304c9e8ce.png)
+
 ## Features
 
 - feature:1
